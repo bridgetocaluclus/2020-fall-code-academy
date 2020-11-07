@@ -12,6 +12,7 @@ During Coding for Calculus, we will be learning Python and using it like scienti
 You don’t need any programming background, but if you have it, there will still be a lot to learn!
 
 Fall Meeting Schedule:
+|Day| Topic| Link|
 |--|--|--|
 |11/7  |      Welcome to Python  |   https://drive.google.com/file/d/1XUenvzz8QA52u05tl7UBhQbLFVVq-ao4/view?usp=sharing|
 |11/14 |       Plotting with Loops|
