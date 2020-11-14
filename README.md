@@ -15,8 +15,8 @@ Fall Meeting Schedule:
 |Day| Topic| Link|
 |--|--|--|
 |11/7  |      Welcome to Python  |   https://drive.google.com/file/d/1XUenvzz8QA52u05tl7UBhQbLFVVq-ao4/view?usp=sharing|
-|11/14 |       Plotting with Loops|
-|11/21 |       Let Computers Make Choices with If-Then Statements |
+|11/14 |       Plotting with Loops| https://drive.google.com/file/d/1_SKjRwjpwohR2SeSBXgo_MzV6GXZa7HK/view?usp=sharing | 
+|11/21 |       Let Computers Make Choices with If-Then Statements | https://drive.google.com/file/d/1oYQPhjKxbZo9fVxLQJnuUm6tsNsaLrHf/view?usp=sharing |
 |11/28 |       Finish Up with If-Then Statements and Project Groups|
 |12/5  |      Project Work|
 |12/13 |       Project Presentations|
